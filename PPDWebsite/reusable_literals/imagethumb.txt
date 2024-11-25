@@ -1,0 +1,8 @@
+﻿<div style="margin-bottom:16px">
+     <div class="bordered" style="border-color:#FF0066;border-width:1px;border-style:Solid;margin-top:28px">                                                         
+         <div class="pull-right">                                   
+             <a style="margin-right:8px" href="#"><i class="fa fa-times"></i></a>
+         </div>                             
+         <img style="width: 100%; display: block; padding:10px" src="FILENAME" alt="image"/>                               
+     </div>
+</div>

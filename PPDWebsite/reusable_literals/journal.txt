@@ -1,0 +1,11 @@
+﻿<div class="jounral-entry col-md-12" style='padding-top: 2px; padding-bottom:14px'>
+    <a class="ti-trash pull-left deleteEntry" onclick="deleteEntry('JID')" href="#">&nbsp;</a>
+        <span class="entry"><a href="journal.aspx?entry=JID">SUMMARY</a></span>
+		<a class="ti-eye pull-left deleteEntry" href="journal.aspx?entry=JID"></a>
+         <!--<div class="checkbox-option pull-left">
+        <div class="inner"></div>
+			
+           <input type="checkbox" name="checkbox" value="Checkbox" />
+        </div>-->
+		<small class="pull-right" style="color:grey">JDATE</small>
+</div>

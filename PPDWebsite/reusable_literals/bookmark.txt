@@ -1,0 +1,7 @@
+﻿<div class="entry-1 col-md-12" style='padding-top: 2px; padding-bottom:14px'>
+    <a class="ti-trash pull-left deleteEntry" onclick="deleteBookmark('BOOKMARKID')" href="#">&nbsp;</a>
+	<a class="ti-eye pull-left deleteEntry" href="bookmark.aspx?id=BOOKMARKID"></a>
+        <span class="entry"><strong>DAYNO</strong> - SUMMARY</span>
+
+</div>
+
